@@ -12,6 +12,8 @@
 
 [Homebrew](https://brew.sh/)
 
+[https://github.com/mongodb/homebrew-brew](https://github.com/mongodb/homebrew-brew)
+
 ```
 brew tap mongodb/brew
 brew update
